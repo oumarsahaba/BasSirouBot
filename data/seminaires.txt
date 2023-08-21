@@ -1,0 +1,204 @@
+SÉMINAIRES
+2023
+Mardi 07 mars 2023 (12h30 GMT)
+
+Plaire Tchinda MOUOFO, Senior lecturer at the University of Ebolowa, Faculty of sciences in Cameroon
+
+Title: Mathematical analysis and optimal control of a two-time delays Schistosomiasis model with hybrid Miracidium and Cercariae
+
+Abstract: Field observations clearly show that Schistosoma haematobium and the hybrid of S. haematobium and Schistosoma intercalatum have completely replaced S. intercalatum in a period of less than 30 years [1,2]. In this paper we propose and study a two time delays dynamical model for interaction between one parental strain of schistosomiasis and its hybrid strain obtained with another species. The dynamics of the model is rigorously analyzed by using the theory of delay dynamical systems and the existence of a Hopf bifurcation due to the delay is analyzed. The optimal control theory is further applied to the model to study the corresponding optimal control problem. Numerical simulation indicate the effect of the two controls (treatment of infected individuals and snail fishing rate) and our results suggest that the combined effect  of treatment and snail fishing in river is more benefit to control the disease.  Moreover,  fishing rate of snails in the early stage of spread of schistosomiasis are very helpful to contain the prevalence of infected human.
+
+2023
+Mardi 17 janvier 2023 (12h30 GMT)
+
+Abdoulaye THIAM, Professor at Metropolitan University of Technology (UTEM), Chile
+
+Title: Application of electrochemical technology for water and wastewater treatment
+
+Abstract: This presentation is focus on the use of electrochemistry in wastewater treatment for the effective removal of contaminants. An overview of the electrochemical technologies, recent achievement, and trends on heterogeneous processes and integration of electrochemical processes with conventional processes will be presented. Among electrochemical technologies, the most widely used methods is electrochemical advanced oxidation processes (EAOPs), which are emerging environmentally friendly methods for the degradation of persistent organic pollutants from wastewater. It was shown that of some these electrochemical approaches, including the direct electrochemical oxidation using suitable anodes such as boron-doped diamond and/or indirect electrochemical processes based on Fenton’s reaction at suitable operating conditions and cells can allow treating effectively a very large number of persistent organic pollutants. The great capacity of these processes indicates that EAOPs constitute a promising technology for the treatment of organics contaminated effluents. EAOPs are based on the in-situ production of reactive oxygen species, pre-eminently hydroxyl radical (·OH), which non-selectively reacts with most organics, being able to degrade even highly recalcitrant organic compounds up to mineralization. Especial emphasis will be made on the explanation of EAOPs such as electro-oxidation using an active or non-active anode, electro-Fenton, photoelectron-Fenton, photoelectro-catalysis and their integrations with electrocoagulation and conventional processes.
+
+2023
+Mardi 10 janvier 2023 (12h30 GMT)
+
+Ibrahima KA, Maître de Conférences Assimilé, Enseignant chercheur à l’EPT au Département GEM. Thiès, Sénégal
+
+Title : Instrumented chip dedicated to semiconductor temperature measurements in power electronic converters
+
+Abstract : The fast-paced advancements in the understanding of semiconductor theoretical basis led to the conception of diversified power electronic devices. In the field of power electronics, the efficiency of those devices is strongly linked to high power rates and full integration trends that guide thedesign process of converters. Consequently, electrothermal constraints management is gaining importance when it comes to the reliability aspect of power systems. The key parameter that needs to be monitored during converter lifetime is the junction temperature of semi-conductor components.
+Many methods are used to estimate the junction temperature of semi-conductor chips embedded into power converters. That parameter is usually defined as a virtual junction temperature Tjv which reflects the temperature of the active parts of power chips. Among those approaches,ThermoSensitive Electrical Parameters (TSEPs) are widely employed. Nonetheless, the representativeness of TSEPs is not fully addressed in the scientific literature. It is therefore mandatory to investigate this aspect using new additional methods to validate the temperature measurements performed thanks to TSEPs, especially under the converter’s conditions of use.
+As part of our work, a new temperature measurement tool dedicated to TSEPs validation is designed. Microelectronic conventional processes are adapted to develop a power instrumented chips (Diodes, IGBTs) with integrated temperature sensor. It makes possible simultaneous junction temperature measurements using a TSEP and the on-chip resistive temperature detector. The experimental validation results are performed usinginstrumented power modules and infrared thermography.
+
+Keywords: Temperature measurements – ThermoSensitive Electrical Parameters – Power electronics – Semi-conductor components – Temperature Resistive Detectors – Instrumentation – Infrared Thermography – Reliability.
+
+2022
+Mardi 13 décembre 2022 (12h30 GMT)
+
+Mamadou Kabirou TOURÉ, Maître de Conférences Assimilé, Enseignant chercheur à l’EPT au Département GEM. Thiès, Sénégal
+
+Title : Numerical Thermal modeling in Microelectronic Packages
+
+Abstract : Nowadays, numerical simulation using thermal fluid-structure interaction is often used to accurately predict heat transfer in microelectronics packages. The heat transfer problem has been solved by a bidirectional coupling method between the solid domain and the fluid domain.
+
+First of all, we will present numerical and experimental studies of natural convection of a microelectronic package in a still air chamber according to the Joint Electron Device Engineering Council (JEDEC) standard. The junction temperatures obtained with the numerical simulations in the vertical and horizontal orientations were in excellent agreement with the experimental measurements, with an absolute difference of less than 1°C.
+
+Secondly, an accurate modeling study of forced convection for microelectronic packages is given. The results of numerical simulations using computational fluid dynamics (CFD) are consistent with JEDEC experimental measurements of junction temperature for a velocity range of 0.5 m/s to 4.5 m/s and a power of 15 W, while empirical formulas lead to higher errors.
+Thirdly, the cooling of heat sinks by natural or forced convection in microelectronic packages is shown. A summary of the convection coefficients inside the fins and the equivalent thermal resistance of the fins is performed for the two heat transfer modes; the calculation of heat transfer coefficients by empirical formulas is greatly overestimated compared to the coefficients obtained by CFD.
+At last, the best practices for thermal modeling in microelectronics with natural convection cooling are given by the findings from a detailed sensitivity study performed on various key parameters of a high-precision numerical model of a microelectronic package, to provide rules. The sensitivity study showed that to have a precise estimate of the temperature certain aspects must be present in the thermal model such as heat transfer by radiation, fluid dynamics to find realistic convection coefficients, detailed models of high-conductivity elements in the direction of heat flow to the environment, and precise values for layer thicknesses and thermal properties of the substrate and printed circuit board (PCB).
+
+Keywords: Thermal analysis, Thermal management, Natural convection, Forced convection, Thermal conduction, Thermal radiation, Joint Electron Device Engineering Council, JEDEC, Computational fluid dynamics, CFD, Computational heat transfer, CHT, Microelectronics, Microelectronic packaging, Heat sink, Still air chamber, Wind tunnel.
+
+2022
+Mardi 19 juillet 2022 (12h30 GMT)
+
+Mamadou Kabirou TOURÉ, Maître de Conférences Assimilé, Enseignant chercheur à l’EPT au Département GEM. Thiès, Sénégal
+
+Title : Numerical modeling of two-phase flow
+
+Abstract : In modern engineering, numerical simulation is a tool that is commonly used to predict the behavior of systems subjected to physical or multiphysical problems with an accuracy depending on the parameters. Numerical simulation, when well executed with the right parameters’ values, allows us to significantly reduce research and development costs by giving the approximate numerical solution.
+Our work in the field of numerical simulation of two-phase incompressible flows with a velocity field imposed or calculated from a Navier-Stokes solver is presented. Numerical methods are evaluated for cases such as free surface of a liquid sloshing in a tank, dam breaks, and the problem of Rayleigh-Taylor instability.
+
+2022
+Mardi 06 juillet 2022 (12h30 GMT)
+
+Samouro DANSOKHO, Doctorante à l’Institut Polytechnique de Paris, Laboratoire de Météorologie Dynamique. Paris, France
+
+Titre : Estimation des coûts d’intégration des énergies renouvelables variables dans le système électrique avec un modèle économique simple: étude qualitative de la flexibilité
+
+Résumé : La forte croissance des énergies issues de sources renouvelables variables (ERV) représente un défi majeur pour les systèmes électriques mondiaux. En France, certains scenarios envisagent une part moyenne d’ERV dans la production électrique allant de 40 % à 90 % à l’horizon 2050 (RTE 2022) contre 10.4 % en 2020 (RTE 2021). L’inadéquation du système électrique actuel aux caractéristiques de production des ERV engendre des contraintes et/ ou coûts supplémentaires pour l’ensemble des acteurs du système (Sijm, 2014). Évaluer la viabilité technique, économique et écologique d’une telle transition nécessite donc de modéliser le système énergétique pour étudier sa réponse à l’introduction d’une forte part en énergies renouvelables (Ringkjob et al. 2018). Le modèle e4clim permet de modéliser de façon simple l’introduction d’énergies renouvelables variables et en particulier l’impact sur les producteurs conventionnels permettant ainsi de faire des études de sensibilité et de généraliser des résultats à d’autres cas.
+Pour cette présentation, nous aborderons les problématiques associées à l’introduction des ERV du point de vue des producteurs conventionnels puis avec les résultats du modèle appliqué à la France, nous présenterons de manière qualitative les coûts de flexibilité additionnels engendrés par les ERV pour ces producteurs.
+
+Mots clefs : Énergies renouvelables, Variabilité climatique, Mix énergétique, Flexibilité, Coûts
+
+2022
+Mardi 28 juin (12h30 GMT)
+
+Idrissa GAYE, Maître de Conférences Titulaire, Enseignant chercheur à l’ Université Iba Der Thiam de Thiès. Thiès, Sénégal
+
+Titre : La météorologie de l’espace et les relations Soleil-Terre : Conséquences sur les technologies terrestres
+
+Résumé : La Météorologie de l’Espace est une discipline très récente, encore en développement, elle étudie l’impact de l’activité solaire sur notre environnement terrestre. L’interaction du rayonnement électromagnétique et des particules solaires avec le champ magnétique et l’atmosphère terrestre a des implications importantes sur notre monde technologique et notre environnement spatial. En effet, le Soleil envoie en permanence des masses importantes de particules (électrons et protons) de grande énergie qui transportent une partie du champ magnétique solaire. Cette masse appelée « vent solaire » provoque dans l’environnement terrestre d’importantes perturbations électromagnétiques (orages magnétiques) qui peuvent affecter gravement le bon fonctionnement de nos infrastructures économiques (satellites, réseaux de télécommunications et de transport d’énergie, pipelines, etc.) et le déroulement normal de certaines activités telles que la navigation aérienne et spatiale. 
+
+Afin de mieux comprendre et prévenir de tels événements, plusieurs instruments furent déployés sur toute l’étendue du Globe. Notamment en Afrique, des magnétomètres, des récepteurs GPS, des détecteurs de particules etc. ont été installés pour collecter des données sur diverses phénomènes ionosphériques, magnétosphériques et héliosphèriques. Une initiative internationale ISWI (International SpaceWeather Initiative, www.iswi-secretariat.org) a été mise en place pour promouvoir l’étude et le développement de la Météorologie de l’Espace afin de faire évoluer les connaissances acquises vers leur opérationnalisation.
+
+Mots clefs : Météorologie de l’espace – Vent solaire – Ionosphère – GPS.
+
+2022
+Mardi 24 mai 2022 (12h30 GMT)
+
+Ibrahima KA, Maître de Conférences Assimilé, Enseignant chercheur à l’EPT au Département GEM. Thiès, Sénégal
+
+Title: A MQTT-based IoT Module Applied to Chicken Poultry Farm
+
+Abstract: Industrial Internet of Things – IIoT – is being more and more applied to every production field as technology evolves. Poultry farms take advantage of that trend to increase productivity and ease day-to-day management. Chicken meat production is economically feasible if environmental parameters are monitored and controlled in order to lower broiler mortality. This project presents a remote monitoring solution applied to chicken poultry farms. Temperature, humidity and ammonia rate are obtained using DHT22 and MQ137 sensors. The main hardware component is a custom-designed PCB where an Arduino nano IoT 33 microcontroller is embedded to collect and send data to the cloud. AWS cloud services, CDAP pipeline and PostgreSQL database are then used to store, process and display relevant data on a dashboard. The first part presents the hardware design process. The second part shows the data workflow. Prototype onsite deployment and test results are discussed in the third part. Finally, future developments of the module are proposed.
+
+Keywords: Industrial Internet of Things, Poultry Farm, AWS cloud, DHT22, MQ137.
+
+
+2022
+Mardi 10 mai 2022 (12h30 GMT)
+
+Cheikh Sarr, Professeur Titulaire de classe exeptionnelle à l’Université Iba Der Thiam de Thiès. Thiès, Sénégal.
+
+Titre: L’internet des objets : des données aux applications
+
+Résumé : 
+
+L’Internet des objets (IoT) se présente de nos jours comme une ensemble de technologies qui permettent d’automatiser les processus d’acquisition, d’envoi et de traitement des données afin de fournir des informations fiables et exploitables. Avec la démocratisation de l’accès aux capteurs qui sont des petits dispositifs électroniques capables de recueillir des informations sur l’environnement immédiat, l’internet des objets est parfois vu comme la troisième révolution de l’internet appelé Web 3.0. Dans cet exposé, nous présenterons les concepts permettant de comprendre l’internet des objets à travers, les architectures ainsi que les enjeux actuels de la digitalisation des processus. Enfin, nous terminerons par présenter des cas concrets de projets déjà implémentés sur l’IoT.
+
+Mot clés : Capteurs, Internet de objets, communication, collaboration, automatisation des processus
+
+2022
+Mardi 12 avril 2022 (12h30 GMT)
+
+Mamadou Diallo Diouf, Professeur Assimilé, Enseignant chercheur à l’EPT au Département GIT. Thiès, Sénégal
+
+Titre: Architectures de réseaux de télécommunications de nouvelles générations
+
+Résumé : Nous présenterons dans ce séminaire nos thématiques de recherche sur l’évolution des architectures de réseaux de télécommunications pouvant offrir un grand débit, une latence très faible et pouvant desservir les utilisateurs se situant dans les zones les plus éloignées comme la population rurale. En effet, nous assistons aujourd’hui à l’émergence de services très gourmands en bande passante. Parmi ces services nous pouvons citer le Cloud, la vidéo à la demande, la télévision numérique à haute définition, l’intelligence artificielle, la télémédecine, l’IoT, etc. Avec la période du Covid-19 nous constatons également une autre manière de vivre et de travail de la population. Nous notons les conférences en ligne, le télétravail, les cours en ligne et à temps réel, les achats en ligne, bref tout se fait à la maison et le slogan ” Rester chez vous est défini ‘’. Ainsi tous ces aspects sont possibles si les opérateurs et les FAI (Fournisseurs d’Accès Internet ) fournissent des infrastructures de réseaux à très haut débit. Pour la population rurale, se situant souvent dans des zones très éloignées des sites d’accès, il est important de réfléchir sur des architectures pouvant les raccorder pour leur permettre l’accès à ces services. Actuellement les opérateurs ont commencé à tester la 5G et les chercheurs pensent à sa stabilisation et sa généralisation. D’autres ont même commencé à réfléchir sur la 6G pour répondre toujours à ces questions de demande de services à la communauté. Techniquement il existe plusieurs technologies candidates définies par le monde de la recherche universitaire et industrielle. Nous nous focalisons d’une part sur la convergence  optique/sans fils de type Radio sur fibre ( RoF, Radio over Fiber ) utilisant la bande millimétrique. D’autre part, il est intéressant de développer d’autres techniques d’allocations optimales des ressources des systèmes virtuels de type MVNO et de d’implémentation de codes correcteurs simples et efficaces dans les systèmes optiques et coopératifs
+
+2022
+Mardi 12 avril 2022 (12h30 GMT)
+
+Abdoulaye SARR, Assistant Titulaire, Enseignant chercheur à l’EPT au Département GEM. Thiès, Sénégal
+
+Title: Multidisciplinary optimization based on “Machine Learning” technique for Urban Air Mobility (UAM)
+
+Abstract: Electric vertical take-off and landing (e-VTOL) vehicles are light aircraft that can take off and land vertically. There uses electric power for the propulsion and are less complex, more efficient, much quieter and cheaper than helicopter.
+Today, they are more than 100 ongoing research projects and according to the German consulting group named Roland Berger, by 2025, there will be around 3,000 eVTOL commercial passenger vehicles in service, and as many as 98,000 of them flying by 2050, mostly in local taxi, airport shuttle or inter-city service.
+Conceptual design and performance estimation for aircraft is a complex multi-disciplinary problem that involves modelling the effects of the aerodynamics, propulsion, stability and structural response of the aircraft for a specified design mission. Computational modelling has been playing a key role in the design of aerospace systems. Moreover, experiments are sometimes dangerous and the generation of high-fidelity simulation data is also expensive and time consuming. Data are hardest to acquire and thus sparsest in the most decision-critical regions, such as when a system is close to failure or instability.
+The main objective of this thesis is to propose a new approach based on Machine Learning Techniques for aircraft design.
+
+
+2022
+Mardi 15 mars 2022 (12h30 GMT)
+
+Aliou Badara CAMARA, Maître de Conférence Assimilé, Enseignant chercheur à l’EPT au Département GC. Thiès, Sénégal
+
+Title: Multiaxial Fatigue Analysis of bolted connections
+
+Abstract: The structural integrity of mechanical components and their assemblies is a major design purpose. The applications may concern the aeronautics, the automobile, the railway as well as structures such as bridges or masts subjected to cyclic loads or to variable amplitude stress states. This leads the design engineer to take into account various phenomena, including fatigue, a dominant factor that may lead, under dynamic stress, to the failure of structures or parts of them. The mechanical components are generally subjected in service to multiaxial stress states. Taking into account the triaxiality of stress states requires the use of multiaxial fatigue criteria. They are suitable tools for assessing the material fatigue resistance against periodical stress states, especially when they are multiaxial. A fatigue post-processing tool is developed and implemented under Matlab software to assess on the one hand, the damage level at the fixed endurance limit of the material (2.106 cycles) and, on the other hand, the fatigue life up to crack initiation from an iterative fatigue calculation process. The two multiaxial fatigue criteria used are Dang Van criterion (critical plane approach) and Zenner criterion (integral approach). Then, the fatigue post-processing tool is validated by fatigue test results from the bibliography.
+Two applications will be presented during the talk: in Civil engineering (Tee Stub) and in Railway.
+
+Keywords: Multiaxial fatigue criteria, Damage, Fatigue life, Tee- stub, Stresses states, Dang Van criterion, Zenner criterion, Railway.
+
+2022
+Mardi 01 mars 2022 (12h30 GMT)
+
+Léon Matar TINE, Enseignant chercheur à l’Université Claude Bernard Lyon 1, Institut Camille Jordan UMR 5208
+
+Title: Mathematical Modeling of salted bevel
+
+Abstract : In this talk we are interested in the mathematical modeling of the salted bevel. The salted bevel phenomenon, which is by definition the intrusion of salt water into a body of pure water, is a problem that interests many countries where drinking water is an increasingly scarce commodity. For these areas, the preservation of underground water tables against salted water intrusions is a major priority. This presentation aims to the modeling of this salted bevel phenomenon which consists of a coupling between an equation representing the piezometric load, an equation for the transport of the salted substance and an equation for the speed following a darcy’s law.
+Throughout this presentation we will show the considered model, we will briefly talk about the mathematical analysis and finally we will investigate the numerical simulations.
+
+This presentation is taken from a work in progress with Babacar Leye (2IE Burkina) and Babacar Toumbou (Thies university).
+
+2022
+Mercredi 16 février 2022 (12h30 GMT)
+
+Birame A. SY, Maître de Conférences Assimilé, Enseignant chercheur à l’EPT au département GEM. Thiès, Sénégal
+
+Title : From low fidelity to high resolution approaches in aircraft design
+
+Abstract : 
+
+
+2022
+Mardi 18 janvier 2022 (12h30 GMT)
+
+Modou MBAYE, Chargé de Recherche au Centre d’etudes Régional pour l’Amélioration de l’adaptation à la Sécheresse, (CERAAS), de l’institut Sénégalais de Recherches Agricoles (ISRA). Thies, Sénégal
+
+Titre : Le Phenotypage haut Debit  par imagerie embarquée Drone et Satellite
+
+Résumé : 
+
+
+2021
+Mercredi 15 décembre 2021 (12h30 GMT)
+
+Abdoulaye SENE, Assistant Titulaire, Ecole Polytechnique de Thiès, Sénégal
+
+Titre : Matériaux et systèmes constructifs en faveur du développement durable : la terre et le typha dans la construction au Sénégal
+
+Résumé : Dans cet exposé, nous aborderons les questions d’identification des barrières et de catalyseurs dans notre projet de mise en valeur des matériaux verts dans la construction. Ensuite, nous ferons quelques propositions allant dans le sens de promouvoir l’écoconstruction et les matériaux durables. Enfin, nous aborderons nos essais dont les résultats seront utilisés comme plaidoyer pour la vulgarisation  et la massification, à travers des constructions adaptées à l’usage.
+
+2021
+Mercredi 01 décembre 2021 (12h30 GMT)
+
+Fati ZOMA, Maître de Conférences, Ecole Supérieure d’Ingénierie (ESI), Université Fada N’Gourma (UFDG), Burkina Faso
+
+Titre : Choix d’un matériau sol approprié pour la construction
+
+Résumé : Le changement climatique est alimenté par l’émission des gaz à effet de serre résultant, entre autres, par la consommation d’énergie du secteur de la construction. Au nombre des pratiques très énergétivores nous pouvons citer la production de ciment qui nécessite une quantité substantielle de combustibles et le conditionnement d’air pour répondre aux besoins de confort dans les bâtiments. Cette situation laisse entrevoir les répercutions aussi bien sur le plan environnemental que sur le plan socio économique. Notre approche à consister à formuler, pour l’enveloppe des bâtiments, un matériau composite à base de terre et d’intrants végétaux, qui va offrir, tout à la fois, de bonnes qualités pour le confort thermique et de la résistance mécanique, et ce en utilisant le moins possible de liants industriels comme le ciment. Pour ce faire l’on doit procéder au choix d’une terre appropriée.
+
+Au vu de la diversité des propriétés géotechniques des sols d’une localité à une autre, nous avons convenu de choisir le matériau sol approprié sur la base de caractéristiques géotechniques correspondant aux critères recherchés: il s’agit du pouvoir plastifiant afin d’assurer une bonne maniabilité, de la densité des particules grossières pour résister aux charges et d’une bonne porosité pour tirer parti du caractère isolant de l’air.
+
+Les résultats ont montré que le matériau terre adéquat en plus de vérifier les normes NF P18-560, NF P94-057 AFNOR (1992), doit avoir les caractéristiques suivantes :
+
+Les particules inférieures à 80 μm doivent correspondre à plus de 35% du sol ;
+
+Les particules supérieures à 80 μm doivent représenter au moins 50% du sol (%) ;
+
+L’indice de plasticité (Ip) doit être supérieur à 20% (Ip≥ 20%) ;
+
+La valeur du bleu de méthylène (VB) doit être comprise entre 6 et 8 (6< VB < 8).

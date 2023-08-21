@@ -1,0 +1,293 @@
+LISTE DES PROJETS
+NrjDrone : Autonomisation énergétique des UAVs
+Yartech : Smart Poultry Farm
+Assainissement et Changement Climatique : Évaluation de l’Adaptation et de la Résilience (Scare)
+DYNamique Adaptative des Maladies InfectieuseS (JEAI-DYNAMisM)
+Typha Combustible Construction Afrique de l’Ouest(TyCCAO)
+Un enseignement technique supérieur en Afrique pour une main-d’œuvre technique et innovante (Projet UNESCO – CFIT III)
+Résilience et Pérennisation du Château d’eau d’Afrique de l’Ouest (REPECHAO)
+Sustainable Energy Access for Sustainable Cities (SEA4Cities)
+PESEREE (Coopération allemende)
+Technologies Solaires Appliquées (TSA)
+Production de matériaux d’isolation thermique à base de Typha au Sénégal (PROGRAMME PNEEB/TYPHA)
+Jatropha
+PROJETS EN COURS
+NrjDrone : Autonomisation énergétique des UAVs
+Description : Une des problématiques majeures dans l’exploitation des drones résident dans la limitation du temps de vol. L’autonomie de vol est généralement limitée à 15-30 min, avec une durée de vol maximale de 90 min actuellement atteint par les UAVs multirotors à batterie haute performance. Les systèmes d’alimentation des UAVs qui utilisent deux ou plus de sources d’énergie différentes (systèmes d’énergie hybrides) sont considérées comme une solution afin d’augmenter la durée de vol tout en conservant les principaux avantages de performance du stockage d’énergie classique avec batteries.
+L’entreprise Canadienne BIRCIS Technology & Consulting et l’EPT lancent un projet concernant l’autonomisation énergétique d’un drone. L’idée directrice est d’explorer l’optimisation des UAVs via différentes technologies d’hybridation énergétique et d’en réaliser un prototype (numérique et expérimental).
+
+Coordonnateur : Ibrahima KA,
+Intervenants : Birame Sy, Abdoulaye Sarr
+Partenaires : Bircis Technology & Consulting
+Stagiaires : Mouhamed Cissé (Aero), Sebastien Sipok Sina Sambou (GEM), Moustapha Thioune (GEM)
+
+RETOUR AU MENU
+En cours
+Yartech : Smart Poultry Farm
+Description : Industrial Internet of Things – IIoT – is being more and more applied to every production field as technology evolves. Poultry farms take advantage of that trend to increase productivity and ease day-to-day management. Chicken meat production is economically feasible if environmental parameters are monitored and controlled in order to lower mortality. This project presents a remote monitoring solution applied to chicken poultry farm. Temperature, humidity and ammonia rate are obtained with DHT22 and MQ137 sensors. The main hardware component is a custom-designed PCB where Arduino nano IoT 33 microcontroller is embedded to collect and send data to the cloud. AWS cloud services, CDAP pipeline and PostgreSQL database are then used to store, process and display relevant data on a dashboard.
+
+Principal Investigator: Ibrahima KA
+
+Partner: Baamtu Technologies
+
+En cours
+Assainissement et Changement Climatique : Évaluation de l’Adaptation et de la Résilience (Scare)
+Objectifs : Globalement, l’objectif de ce projet consiste à établir le lien entre l’assainissement et le changement climatique à travers la quantification des rejets atmosphériques issus des latrines et fosses septiques. Plus spécifiquement, le projet vise à :
+
+fournir de meilleures estimations des émissions de gaz à effet de serre associées à la chaîne d’assainissement dans les zones urbaines et les petites villes, en mettant l’accent sur l’assainissement sur site ;
+identifier les choix et options technologiques et de gestion qui permettront d’optimiser la réduction des émissions avec des services sûrs et fiables qui répondent aux besoins des femmes et des filles ;
+améliorer la compréhension de la manière de renforcer la résilience des services d’assainissement au changement climatique dans les contextes à ressources limitées et la résilience des options à faibles émissions par rapport à la pratique actuelle ;
+améliorer la disponibilité des produits et services climatiques qui fournissent des projections et des données climatiques présentées de manière à soutenir la prise de décisions opérationnelles et politiques pratiques dans la planification et le développement des services d’assainissement dans les pays à revenu faible ou intermédiaire
+Membre(s) du projet : Baba NGOM (EPT/Coordonnateur), Aliou LY (EPT), Cheikh Sadibou FAYE (EPT), Adou THIAW GAYE (EPT), Mouhamadou THIAM (EPT)
+
+Partenaires :
+
+Financier : Institut mondial de la croissance verte (GGGI)
+Techniques : Les universités de Bristol et Leeds (Royaume Uni), Kathmandu University (Nepal), Haramaya University (Ethiopie),  Kyambogo Universiy (Ouganda).
+Période d’exécution : Du 24 juin 2021 au 23 juin 2022.
+
+Visite des partenaires
+
+
+En cours
+DYNamique Adaptative des Maladies InfectieuseS (JEAI-DYNAMisM)
+Objectifs : L’objectif global de la JEAI-DYNAMisM est de développer des travaux intégrant les aspects de la Dynamique Adaptative dans la sous-région du Sénégal. Les objectifs spécifiques de la JEAI sont : (Axe 1) proposer des formations et encadrer des étudiants de cursus Master/ Doctorat dans la sous-région en théorie et fondamentaux de la Dynamique Adaptative; (Axe 2) développer des travaux de recherche sur cette thématique dans la sous-région tout en  renforçant les collaborations Sud-Sud existantes (ou à nouer) avec d’autres équipes de la sous-région autour de la thématique de cette jeune équipe; (Axe 3) proposer des animations scientifiques (Écoles d’Étés) sur les thématiques de l’équipe dans la sous-région. À terme, les activités menées par la JEAI  permettront d’aborder de nouvelles questions majeures de santé publique dans la sous-région en épidémiologie évolutive telle que l’émergence des résistances aux traitements et une meilleure utilisation des antibiotiques et antipaludéens.   
+
+Membre(s) du projet : Ousmane SEYDI (EPT/Coordonnateur),  Ramsès Djidjou DEMASSE (IDR/Correspondant), Léna TENDENG (UCAD), Mamadou Lamine DIAGNE (UIDTT), Mountaga LAM (UCAD)
+
+Partenaire financier  et technique : Institut de Recherche pour le Développement (IRD)
+
+Période d’exécution : 2022-2024
+
+En cours
+Typha Combustible Construction Afrique de l’Ouest(TyCCAO)
+Objectifs : L’ambition du programmeTyCCAO se décline à travers 4 objectifs :
+1. Affiner la connaissance du fonctionnement biologique de la plante, afin de maîtriser les risques
+d’envahissement et pour assurer des modes de transformation et de production optimales ;
+2. Favoriser l’accès à une énergie de substitution, à partir d’une biomasse renouvelable ;
+3. Contribuer au développement de bâtiments à faible impact environnemental par leur efficacité
+énergétique et le recours à des matériaux de construction locaux et biosourcés ;
+4. Sensibiliser, former et dynamiser les coopérations inter/intra-sectorielles et transfrontalières entre
+acteurs institutionnels, décideurs publics, industriels, chercheurs et entrepreneurs locaux.
+
+Volet 1 : Connaissance et gestion de la ressource
+
+ 
+
+• Poursuite de la caractérisation de la ressource
+• Estimation quantitative précise
+de la ressource
+• Mise en place d’un cadre de concertation pour la gestion de la
+ressource à l’échelle du bassin du fleuve Sénégal
+• Structuration de la chaîne d’approvisionnement du typha (coupe mécanique, séchage, stockage et première
+transformation)
+
+Volet 2: Valorisation du typha comme combustible
+
+
+• Accompagnement (technique,
+marketing) d’entrepreneurs dans la mise en place de lignes de production de charbon de typha
+• Développement d’autres formes de valorisation énergétique (granulés, buchettes
+densifiées, etc.) à des fins domestiques et industrielles
+• Mise en place d’un dispositif de contrôle et suivi qualité
+• Structuration d’une interprofession des bio-combustibles renouvelables
+
+Volet 3: Valorisation du typha comme matériau dans la construction efficace en énergie
+
+• Développement de matériaux de construction intégrant du typha, répondant aux besoins des différents marchés de la construction neuve et de la rénovation (matériaux terre-typha ; bétons végétaux et autres usages constructifs)
+• Appui aux politiques publiques (réglementations thermiques et autres dispositifs favorisant
+l’éco-construction)
+• Réalisation de bâtiments démonstrateurs au Sénégal et en
+Mauritanie
+
+Volet 4 : Capitalisation,
+dissémination, formation
+
+
+• Capitalisation et
+diffusion des
+résultats à l’échelle
+de l’Afrique de
+l’Ouest (zone
+CEDEAO)
+• Sensibilisation et
+formation de
+formateurs et
+d’acteurs clés
+• Diffusion des
+résultats auprès des
+prescripteurs et
+maîtres d’ouvrage
+publics et privés,
+notamment à travers
+les programmes de
+co-développement et
+de coopération
+décentralisée.
+
+Point focal : Mamadou WADE (EPT)
+
+Partenaires :
+
+Financier : Fonds Français pour l’Environnement Mondial (FFEM), BioBuild
+Techniques : BioBuild Concept, Direction de l’Environnement et des Etablissements Classés (DEEC), Centre d’Etudes et d’Expertise sur les Risques, l’Environnement, la Mobilité et l’Aménagement CEREMA, CSFP-BTP de Diameniado, ENTPE, IUT/UIDTT, ESP, ISET  de Rosso
+Période d’exécution : 2017-2022
+
+
+En cours
+Un enseignement technique supérieur en Afrique pour une main-d’œuvre technique et innovante (Projet UNESCO – CFIT III)
+Description : Le projet UNESCO-Fonds-en-dépôt chinois vise à renforcer les capacités des établissements d’enseignement supérieur (EES) afin de produire les compétences nécessaires au développement national en favorisant la collaboration entre l’enseignement supérieur et l’industrie, en adaptant l’enseignement aux besoins du marché du travail et en privilégiant l’apprentissage axé sur les compétences. Le projet aidera les pays participants à favoriser l’emploi des jeunes, perfectionner les compétences de leur main-d’œuvre et stimuler le développement socioéconomique national.
+
+Cet objectif général sera atteint par les actions suivantes :
+
+évaluer et anticiper les compétences nécessaires grâce à l’analyse du marché du travail et à des études de suivi des diplômés ;
+concevoir des programmes d’enseignement de qualité répondant de manière systématique aux besoins du marché du travail ;
+Favoriser l’apprentissage en milieu de travail et les compétences entrepreneuriales pour améliorer l’employabilité des diplômés ;
+réviser les méthodes d’évaluation pour remédier l’inadéquation entre l’offre et la demande de compétences ;
+consolider les partenariats entre les établissements d’enseignement supérieur et l’industrie
+Résultats attendus :
+
+Résultat 1 : Utilisation efficace des données provenant de l’analyse du marché du travail, de l’examen des programmes d’enseignement et des études de suivi des diplômés menés par les établissements d’enseignement supérieur afin d’améliorer la mise en œuvre de l’enseignement technique
+Résultat 2 : Amélioration de la qualité et de la pertinence des programmes des établissements d’enseignement supérieur afin de répondre aux besoins du marché du travail, de renforcer l’inclusion et de favoriser l’égalité des genres
+Résultat 3 : Adoption par les établissements d’enseignement supérieur de méthodes d’évaluation améliorées qui favorisent la formation axée sur les compétences
+Résultat 4 : Renforcement de la coopération entre les établissements d’enseignement supérieur et les parties prenantes du secteur privé afin de guider l’analyse du marché du travail, l’examen des programmes d’enseignement, l’offre de formations en milieu professionnel, l’élaboration des programmes, la révision des méthodes d’évaluation et la mise en œuvre de l’enseignement technique supérieur
+ 
+
+Coordonnateur du projet : Salam SAWADOGO (EPT)
+
+Partenaires :
+
+Financier : République Populaire de Chine  (China Funds-In-Trust)
+Technique : UNESCO
+Période d’exécution : Novembre 2021 – Octobre 2024
+
+PROJETS DÉROULÉS
+Résilience et Pérennisation du Château d’eau d’Afrique de l’Ouest (REPECHAO)
+Objectifs : L’objectif global est d’étudier les conditions de remplissage du château d’eau guinéen, réservoir naturel assurant la permanence des écoulements des grands cours d’eau. Il s’agit de déterminer si les changements d’usage des sols, l’évolution des sols eux-mêmes, et les changements climatiques en cours ont modifié et modifient toujours les capacités d’infiltration et de stockage des hauts bassins, où les pluies sont abondantes. Une fois déterminée l’évolution passée et/ou en cours, on pourra faire : i- d’une part des prévisions d’évolution des ressources d’eau douce en fonction des scenarios de changements climatiques et de couverture végétale/états de surface ; – ii – d’autre part des recommandations en vue de la pérennisation de cette ressource, au bénéfice des populations locales comme des populations en aval et des gestionnaires des bassins, en particulier celui du Bafing. Pour ce faire, on doit atteindre quelques objectifs spécifiques. Ceux-ci sont les suivants :
+
+OS1- Evaluer les ressources en eau de surface et souterraine et leur évolution depuis 1950, en insistant sur l’évolution du tarissement (cours d’eau et nappes) ;
+OS2- Evaluer l’évolution de l’occupation des sols depuis 1950 ;
+OS3 – Evaluer l’évolution du risque inondation en aval. Il s’agit en particulier d’analyser statistiquement et dans le détail l’évolution des ressources en eau de surface et souterraines, en mettant en évidence toute évolution du tarissement, tant des cours d’eau que des nappes. En couplant cette étude d’une étude géomatique de la couverture végétale et de l’occupation des sols et en prenant en considération les évolutions observées et en cours du climat, on pourra déterminer si l’éventuelle évolution du comportement hydrologique du bassin est en lien avec celle du comportement hydrologique des bassins.
+Membre(s) du projet : Luc Descroix (IRD), Julien Andrieu (Université Côte d’Azur), Ababacar FALL (EPT), Sadibou FAYE (EPT), Alassane BA (EPT), Mamadou Lamine LO (EPT), El hadji Bamba DIAW (2iE & EPT)
+
+Partenaires techniques et financiers:
+
+Agence Italienne pour la Coopération au Développement (AICS)
+L’Union Européenne à travers son Instrument de Coopération au Développement (ICD)
+
+IRD, LMI PATEO, Université Assane Seck de Ziguinchor, SENASOL
+Période d’exécution : Septembre 2019 à Décembre 2021
+
+
+Exécuté
+Sustainable Energy Access for Sustainable Cities (SEA4Cities)
+Objectifs : 
+
+Produire des connaissances sur les systèmes décentralisés d’énergies renouvelables, et
+d’efficacité énergétique dans la ville
+Renforcer les capacités d’une génération de scientifiques spécialisés qui devront penser la
+durabilité des systèmes énergétiques
+Produire une base de données à l’intention des professionnels sur l’intégration dans
+bâtiments résidentiels et commerciaux de Dakar des systèmes d’énergies renouvelables et
+de mesures d’efficacité énergétique
+Contribuer à la transition énergétique pour améliorer la résilience des villes
+Résultats :
+
+Outil de planification de systèmes énergétiques durables dans les villes
+– Secteur résidentiel
+– Secteur commercial (petites et moyennes industries)
+Publications sur la durabilité des systèmes énergétiques dans les villes émergentes comme
+Dakar
+Collaboration avec Springer (30 scientifiques contributeurs)
+Dashboard sur la gestion du projet accessible en ligne
+Plateforme d’échanges d’expériences avec CERMI (Cap-Vert) et ProGREEN (Burkina Faso)
+Membre(s) du projet : Aminata FALL (TU Vienna), Mamadou WADE (EPT), Cheikh FAYE (UCAD), Cheikh Ahmadou MBOJI (UGB), Adia Coumba NDAW (UGB), Salif SOW (ESP), Abdoulaye THIAW (UCAD).
+
+Partenaires :
+
+Financier : Austrian Agency for International Cooperation in Education and Research (OeAD-GmbH)
+Techniques : TU Vienne, appear
+Période d’exécution : Janvier 2018 – Juin 2020
+
+Liens utiles : completed project, Atelier
+
+
+Exécuté
+PESEREE (Coopération allemende)
+Description : Le Programme d’Enseignement Supérieur pour les Energies Renouvelables et l’Efficacité Energétique (PESEREE) est un programme d’appui technique qui s’inscrit dans le pôle prioritaire de la coopération sénégalo-allemande « énergies renouvelables, efficacité énergétique ». Le projet a une durée de 2 ans et 8 mois (de 10/2015 à 06/2018) avec des coûts estimés à EUR 2.500.000 (FCFA 1,64 milliards). Le focus de la première phase a été surtout d’établir le cadre de partenariat et les modalités de la coopération.
+
+Objectif : Il a pour objectif principal de renforcer l’orientation pratique et vers l’emploi des cursus et formations dans le domaine des énergies renouvelables/efficacité énergétique (EnR/EE). Il s’appuie pour cela sur le Master Interuniversitaire d’Energies Renouvelables (MIER) partagé par les universités Gaston Berger de Saint-Louis, Alioune Diop de Bambey, AssaneSeck de Ziguinchor et l’Ecole Polytechnique de Thiès. Ce programme contribue également à renforcer la coopération interuniversitaire sénégalo-allemande en vue d’établir un partenariat durable, pratique basé sur l’échange d’expériences et de compétences
+
+Activités déroulées :
+
+Atelier de développement de Curricula pratiques orientés vers l’emploi et Ecole d´été du 31 août 2016 au 10 septembre 2016 à Cologne (Allemagne) ;
+Atelier de développement de curricula (11 au 16 février 2017) et  Ecole d’hiver (16 au 27 février 2017) (à l’Ecole Polytechnique de Thiès (Sénégal) ;
+Journée d’échange scientifique (15 Février 2017) entre les enseignants sénégalais et allemands, à l’EPT pour établir une coopération scientifique entre les universités et pour renforcer les liens entre les universités MIER et la TH Köln ;
+Atelier de développement de curricula et Ecole d’été (août 2017) à l’Université Technique de Cologne (TH Köln) (Allemagne)
+Organisation de séjour de recherche d’étudiants en master, pour une durée de 5 mois (septembre 2017 à janvier 2018)
+Atelier de formation à l’utilisation des outils techno-pédagogiques et au développement de capsules vidéo de cours à distance, à l’EPT  du  27 novembre au 1er décembre 2017 ;
+Atelier de diagnostic de la demande potentielle de formation et d’évaluation du potentiel en termes d’offre de formation continue dans le domaine des énergies renouvelables et de l’efficacité énergétique, EPT 2017 ;
+Organisation de séjour de recherche pour des doctorants pour une durée de 3 mois (mai 2018 à août 2018) ;
+Atelier de validation de la nouvelle maquette du MIER les 27 et 28 novembre 2018 à Dakar ;
+Participation des étudiants au concours inter-universitaire sur les énergies renouvelables et l’efficacité énergétique, 1er et 4ème prix remportés par l’EPT, mai 2018.
+Point focal : Mamadou WADE (EPT)
+
+Partenaires :
+
+Financier : Coopération allemande au développement (GIZ)
+Techniques : Université Gaston Berger de Saint-Louis, Université  Alioune Diop de Bambey, Université Assane Seck de Ziguinchor
+Période d’exécution : Mai 2016 – Juin 2018
+
+Exécuté
+Technologies Solaires Appliquées (TSA)
+Description : Deuxième phase du projet TSA (2013-2018) cofinancée par le gouvernement canadien (MAECD/ ACDI) : Mise en place, pour les pays de l’UEMOA, d’un Institut de formation en Technologie Solaire Appliquée (ITSA) à Ouagadougou au Burkina Faso. L’Ecole Polytechnique deThiès (EPT) que nous représentons est partenaire dans le projet. Dans ce cadre, nous avons participé ou mené les activités suivantes :
+
+séminaire de perfectionnement  pour le développement de curricula de l’ITSA : 8 au 19 septembre 2014 à l’Ecole Polytechnique de Montréal (Canada),
+cours de Réseaux électriques dispensés aux étudiants de Master 2 de l’ITSA à Ouagadougou au Burkina Faso, de 2015 à nos jours.
+Membres du projet : Feu Ibrahima LY (EPT), Joseph BATHIEBO (Université Joseph Ki-Zerbo de Ouagadougou), Oumarou SAVADOGO (Ecole Polytechnique de Montréal)
+
+Partenaires :
+
+Financier : Agence canadienne de développement international (ACDI)
+Techniques : Université Joseph Ki-Zerbo de Ouagadougou, Ecole Polytechnique de Montréal
+Période d’exécution : Avril 2013 – Novembre 2018
+
+Exécuté
+Production de matériaux d’isolation thermique à base de Typha au Sénégal (PROGRAMME PNEEB/TYPHA)
+Description : Le Sénégal conscient des enjeux du réchauffement climatique porte un intérêt particulier sur l’utilisation des fibres naturelles (roseau Typha qui est devenue depuis plusieurs années un problème écologique majeur) pour réduire l’empreinte énergétique. De ce fait la Direction de l’Environnement et des Etablissements Classés (DEEC) du Ministère de l’Environnement et du Développement Durable et le Programme des Nations Unies pour le Développement (PNUD) ont conclu une lettre d’accord établie dans le cadre de la mise en œuvre du Partenariat d’Actions pour l’Economie Verte (PAGE) pour l’appui au développement de normes standards, compétences et capacités pour la promotion de matériaux locaux et durables dans le secteur de la construction qui est un volet important du programme de développement de matériaux de construction performants énergétiquement à base de terre et de Typha australis.
+
+C’est dans ce cadre que s’inscrit le projet « Transfert de technologie : Projet de production de matériaux d’isolation thermique à base de Typha au Sénégal » Programme PNEEB/TYPHA.
+
+Pour abriter le projet à l’EcolePolytechnique de Thiès, le bâtiment en terre cuite (BTC) (appelé aussi bâtiment géobéton) inachevé a été retenu pour mener les expérimentations sur le comportement des matériaux locaux en construction avec comme objectif d’en faire un bâtiment à base de matériaux locaux écologiques moins coûteux (parce que moins de béton) et performant énergétiquement.
+Avec le concours financier du PNUD, le bâtiment a été achevé et équipé afin d’être érigé en laboratoire de recherche pour :
+
+créer un environnement de travail et de recherche dans un bâtiment écologique ;
+suivre dans la durée les différents paramètres hygrométriques avec l’instrumentation (sondes de température, hygromètres, compteur d’énergie, …) ;
+suivre les comportements mécaniques et des pathologies des différents matériaux qui ont été utilisés ;
+coordonner l’activité de recherche autour des différentes thématiques de sujets de thèse et de master (bourses octroyées à des étudiants) telles que :
+Amélioration des performances thermomécaniques des matériaux de construction à base d’argile des bâtiments bioclimatiques selon les systèmes constructifs des « parpaings ondules MBN » et « claustras MBN » (mémoire de master déjà soutenu)
+Impact de l’utilisation du typha australis dans l’habitat (mémoire de thèse en cours)
+Point focal : Mamadou WADE (EPT)
+
+Partenaires :
+
+Financier : PNUD/FEM
+Techniques : Direction de l’Environnement et des Etablissements Classés (DEEC)
+Période d’exécution : Février 2013 – février 2017
+
+
+Exécuté
+Jatropha
+Description : Ce projet de recherche a été initié pour soutenir les options politiques prises par les Etats (Bénin, Burkina Faso et Sénégal) de développer de nouvelles filières d’énergie durable et renouvelable. Il aborde la problématique de Jatropha par une approche holistique intégrant la gestion optimale des systèmes Jatropha, l’augmentation des services rendus par ces systèmes et la maîtrise de ses impacts sur l’environnement et les communautés rurales. L’Ecole Nationale Supérieure d’Agriculture (ENSA), le Centre d’Etudes et de Recherches sur les Energies Renouvelables (CERER) et l’Ecole Polytechnique de Thiès (EPT) ont constitué les acteurs techniques de ce projet. Le partenaire financier est l’Union Africaine.
+
+Résultats : L’objectif était la mise au point de technologies de production et d’utilisation durables de biocarburant de Jatropha curcas pour une réduction de la pauvreté rurale en Afrique de l’Ouest. C’est ainsi que nous avons mis au point et installé au village de Ngouye (Sénégal) :
+
+un système moteur thermique fonctionnant à l’huile de Jatropha alimentant un moteur qui entraîne un moulin à mil ;
+un système moteur thermique fonctionnant à l’huile de Jatropha qui entraîne un alternateur de 15 kVA et qui alimente actuellement en électricité 15 maisons d’environ 10 personnes chacune et assure l’alimentation de l’éclairage public.
+Point focal :  Alassane DIENE (EPT)
+
+Partenaires :
+
+Financier : Union Africaine
+Techniques : Ecole Nationale Supérieure d’Agriculture (ENSA), Centre d’Etudes et de Recherches sur les Energies Renouvelables (CERER)
+Période d’exécution : 2012 – 2016

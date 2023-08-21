@@ -1,0 +1,43 @@
+"L’EPT est une école d’ingénieur forte de 48 ans d’expertise dans la formation d’ingénieurs de conception en Génie Civil, Génie Informatique et Télécommunications, Génie Électromécanique et Génie Aéronautique.",
+
+"L’EPT est résolument tournée vers la diversification des filières mais aussi des niveaux de formation. Cela entraine inéluctablement une évolution des effectifs des élèves-ingénieurs.",
+
+"On note une évolution des effectifs avec une augmentation de x% entre 2010 et 2021. Par contre, il faudra noter que cette évolution est freinée par sa capacité d’accueil que ce soit au niveau social ou au niveau pédagogique. Cette capacité limitée empêche pour le moment l’ouverture de deux nouveaux départements dont les projets pédagogiques sont finalisés, le département de Génie industriel et le département de Géomatique et sciences topographiques.",
+
+"L’effectif total des étudiants durant l’année scolaire 2020-2021 est de 403 répartis comme suit :",
+
+"Effectif total des étudiants pour l’année scolaire 2020-2021",
+"Elèves Ingénieurs / Etudiants Masters",
+"Elèves ingénieurs	84.6%",
+"Etudiants en Master	15.4%",
+"Intitules	effectifs",
+"Elèves ingénieurs	341",
+"Etudiants en Master	62",
+"Effectif Garçons / Filles",
+"Garçons 28.5%",
+"Filles 71.5%",
+"Genre	Effectif",
+"Garçons	288",
+"Filles	115",
+"Diplômés",
+"Diplômés par Départements",
+"GENIE CIVIL	48.1%",
+"GENIE ELECTROMECANIQUE	44.6%",
+"GENIE INFORMATIQUE ET TÉLÉCOMMUNICATIONS	5.8%",
+"AERONAUTIQUE	1.5%",
+
+"Departement	Nbre de diplômés",
+"GENIE CIVIL	734",
+"GENIE ELECTROMECANIQUE	681",
+"GENIE INFORMATIQUE ET TÉLÉCOMMUNICATIONS	88",
+"AERONAUTIQUE	23",
+"Techniciens Supérieurs par Département
+(ESP)",
+"GENIE CIVIL	10.5%",
+"GENIE ELECTROMECANIQUE	89.5%",
+"Départements	nbre techniciens supérieurs",
+"GENIE CIVIL	418",
+"GENIE ELECTROMECANIQUE	49",
+"Nombre d'Ingénieurs par Nationalité",
+"Sénégal	89.3%",
+"Autres nationalités	10.7%"
