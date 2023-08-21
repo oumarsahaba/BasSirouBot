@@ -1,5 +1,5 @@
-Flask==2.2.3
-flask_cors==3.0.10
-langchain==0.0.154
-llama_index==0.6.13
-pypdf==3.9.0
+Flask==2.3.2
+Flask-Cors==4.0.0
+langchain==0.0.266
+llama-index==0.8.5.post2
+pypdf==3.15.2

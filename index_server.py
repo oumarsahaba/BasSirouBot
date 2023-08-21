@@ -6,8 +6,8 @@ os.environ['OPENAI_API_KEY'] = "your key here"
 
 from multiprocessing import Lock
 from multiprocessing.managers import BaseManager
-from llama_index import LangchainEmbedding, SimpleDirectoryReader, GPTVectorStoreIndex, Document, ServiceContext, StorageContext, VectorStoreIndex, load_index_from_storage
-from langchain.embeddings import HuggingFaceEmbeddings, SentenceTransformerEmbeddings
+from llama_index import LangchainEmbedding, SimpleDirectoryReader, ServiceContext, StorageContext, VectorStoreIndex, load_index_from_storage
+from langchain.embeddings import HuggingFaceEmbeddings
 
 
 index = None
