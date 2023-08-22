@@ -86,9 +86,11 @@ Before starting the project you need to ensure that you have docker installed on
 
 The project has been dockerized meaning that all requirements and steps for launching are described and defined. You just need to build it and run it.
 
-1. Clone the repo
+1. Clone the repo and pull the develop branch
    ```sh
    git clone (https link)
+   git checkout -b develop
+   git pull origin develop
    ```
 2. Enter a valide open ai key:
    Go to the index_server file and replace the API key with a valid one
